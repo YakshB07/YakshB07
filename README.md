@@ -28,22 +28,12 @@ I build at the point where **software meets hardware**: industrial robot cells, 
 
 ## Experience
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/FRC1229"><img src="https://avatars.githubusercontent.com/u/193656671?s=160&v=4" width="64" alt="FRC 1229"/></a><br/>
-      <b><a href="https://github.com/FRC1229">FRC 1229 Tidal Shift</a></b><br/>
-      <sub>Robot software: elevator, vision, autonomous, physics sim</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="28" alt="C++"/>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MasseyHacks"><img src="https://avatars.githubusercontent.com/u/17208456?s=160&v=4" width="64" alt="MasseyHacks"/></a><br/>
-      <b><a href="https://github.com/MasseyHacks">MasseyHacks</a></b><br/>
-      <sub>MasseyHacks XII website and participant verification bot</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,discordjs&theme=dark" height="28" alt="TypeScript"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/FRC1229"><img src="https://avatars.githubusercontent.com/u/193656671?s=160&v=4" width="64" alt="FRC 1229"/></a><br/>
+  <b><a href="https://github.com/FRC1229">FRC 1229 Tidal Shift</a></b><br/>
+  <sub>Robot software: elevator, vision, autonomous, physics sim</sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="28" alt="C++"/>
+</p>
 
 ## Tech stack
 

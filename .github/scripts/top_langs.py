@@ -13,7 +13,6 @@ USER = "YakshB07"
 ORG_REPOS = [
     "FRC1229/Reefscape",
     "FRC1229/Physics-SIM-frc",
-    "MasseyHacks/MasseyHacks-XII-Website",
 ]
 SKIP_REPOS = {"YakshB07", "Robot"}
 SKIP_LANGS = {"xBase", "Makefile", "Shell", "Batchfile", "Dockerfile", "CMake"}
