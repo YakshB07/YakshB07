@@ -21,19 +21,28 @@
 I build at the point where **software meets hardware**: industrial robot cells, embedded controllers and the web apps people use every day.
 
 - First-year **Common Engineering** at **Western University**, planning to specialize in **Mechatronics Systems Engineering**
-- Previously a **Jr. Controls Engineer at SPIROL**, where I programmed an Epson robot cell for automated part sorting, go/no-go gauging, QA sampling and fault logging
 - Ontario, Canada · **open to co-op and internship roles**
 
 <br clear="right"/>
 
 ## Experience
 
-<p align="center">
-  <a href="https://github.com/FRC1229"><img src="https://avatars.githubusercontent.com/u/193656671?s=160&v=4" width="64" alt="FRC 1229"/></a><br/>
-  <b><a href="https://github.com/FRC1229">FRC 1229 Tidal Shift</a></b><br/>
-  <sub>Robot software: elevator, vision, autonomous, physics sim</sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="28" alt="C++"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.spirol.com"><img src="https://www.spirol.com/assets/images/template/logo.png" height="64" alt="SPIROL"/></a><br/>
+      <b><a href="https://www.spirol.com">SPIROL</a></b> · Jr. Controls Engineer<br/>
+      <sub>Programmed an Epson robot cell: part sorting, go/no-go gauging, QA sampling, fault logging</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Epson_RC+-1a1b27?style=for-the-badge" height="28" alt="Epson RC+"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/FRC1229"><img src="https://avatars.githubusercontent.com/u/193656671?s=160&v=4" width="64" alt="FRC 1229"/></a><br/>
+      <b><a href="https://github.com/FRC1229">FRC 1229 Tidal Shift</a></b> · Programmer<br/>
+      <sub>Robot software: elevator, vision, autonomous, physics sim</sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="28" alt="C++"/>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
