@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Yaksh%20Butani&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=First-Year%20Engineering%20%40%20Western%20University&descSize=18&descAlignY=55&animation=fadeIn" alt="Yaksh Butani" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Yaksh%20Butani&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=First-Year%20Engineering%20%40%20Western%20University&descSize=18&descAlignY=55" alt="Yaksh Butani" width="100%"/>
 </p>
 
 <p align="center">
