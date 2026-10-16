@@ -21,7 +21,7 @@
 I build at the point where **software meets hardware**: industrial robot cells, embedded controllers and the web apps people use every day.
 
 - First-year **Common Engineering** at **Western University**, planning to specialize in **Mechatronics Systems Engineering**
-- Previously a **Jr. Controls Engineer at SPIROL**, where I programmed an Epson robot cell for automated part sorting, go/no-go gauging, QA sampling and fault logging
+- Previously a **Jr. Controls Engineer at SPIROL**, where I programmed an Epson 6 axis robot cell for automated part sorting, go/no-go gauging, QA sampling and fault logging
 - Ontario, Canada · **open to co-op and internship roles**
 
 <br clear="right"/>
