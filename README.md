@@ -37,12 +37,12 @@ I build at the point where **software meets hardware**: industrial robot cells, 
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/YakshB07/OWP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=OWP&theme=tokyonight&hide_border=true&description_lines_count=2" alt="OWP"/></a>
-  <a href="https://github.com/YakshB07/Command-Base-Tank-drive-Robot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=Command-Base-Tank-drive-Robot&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Command-Based Tank Drive"/></a>
-  <a href="https://github.com/YakshB07/4-way-traffic-light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=4-way-traffic-light&theme=tokyonight&hide_border=true&description_lines_count=2" alt="4-Way Traffic Light"/></a>
-  <a href="https://github.com/YakshB07/verify-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=verify-bot&theme=tokyonight&hide_border=true&description_lines_count=2" alt="MasseyHacks Verify Bot"/></a>
-  <a href="https://github.com/YakshB07/Final-Fse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=Final-Fse&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Final FSE"/></a>
-  <a href="https://github.com/YakshB07/Apple-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=Apple-website&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Apple Website Clone"/></a>
+  <a href="https://github.com/YakshB07/OWP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=OWP&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="OWP"/></a>
+  <a href="https://github.com/YakshB07/Command-Base-Tank-drive-Robot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=Command-Base-Tank-drive-Robot&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Command-Based Tank Drive"/></a>
+  <a href="https://github.com/YakshB07/4-way-traffic-light"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=4-way-traffic-light&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="4-Way Traffic Light"/></a>
+  <a href="https://github.com/YakshB07/verify-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=verify-bot&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="MasseyHacks Verify Bot"/></a>
+  <a href="https://github.com/YakshB07/Final-Fse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=Final-Fse&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Final FSE"/></a>
+  <a href="https://github.com/YakshB07/Apple-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YakshB07&repo=Apple-website&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2" alt="Apple Website Clone"/></a>
 </p>
 
 <!-- Footer banner -->
